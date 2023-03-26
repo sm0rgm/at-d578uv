@@ -6,11 +6,22 @@
 
 Filerna är tillgängliga under [GPLv3](https://github.com/sm0rux/at-d578uv/blob/master/LICENSE).
 
+## Uppdatering av SM0RGM 
+
+På grund av att Pontus SM0RUX av personliga skäl inte har möjlighet att uppdatera kodpluggen så har han och jag kommit överens om att jag övertar och uppdaterar kodpluggen. Kodpluggen är och förblir därmed "SM0RUX kodplugg" men underhållen av mig. Jag har skapat en fork av kodpluggarna och publicerat under mitt eget Github-konto och ändrat kontaktytorna i dessa filer, så kommentarer, ändringar och liknande lägger du som en issue på min Github eller kontaktar mig.
+
+Nacka mars 2023
+SM0RGM Stefan Helander
+
 ## Syfte
 
-Det här är min kodplugg till min Anytone AT-D578UV. Jag använder CPS version 1.13 och firmware 1.13. Huvudsyftet med publiceringen av filerna här på GitHub är att förenkla för mig själv när det gäller uppdateringar. Jag har inget emot att dela med mig av filerna så att andra kan nyttja dem under förutsättning att de som återanvänder mina filer följer licensvillkoren i [GPLv3](https://github.com/sm0rux/at-d578uv/blob/master/LICENSE).
+Det här är min kodplugg till min Anytone AT-D578UV. Jag använder CPS version 1.17 och firmware 2.04. Huvudsyftet med publiceringen av filerna här på GitHub är att förenkla för mig själv när det gäller uppdateringar. Jag har inget emot att dela med mig av filerna så att andra kan nyttja dem under förutsättning att de som återanvänder mina filer följer licensvillkoren i [GPLv3](https://github.com/sm0rux/at-d578uv/blob/master/LICENSE).
 
-Om du vill bidra med något så är du naturligtvis välkommen att göra så antingen genom att skapa en Pull Request (kräver en del kunskap om hur GitHub funkar) eller genom att skapa ett [issue](https://github.com/sm0rux/at-d578uv/issues).
+Om du vill bidra med något så är du naturligtvis välkommen att göra så antingen genom att skapa en Pull Request (kräver en del kunskap om hur GitHub funkar) eller genom att skapa ett [issue](https://github.com/sm0rgm/at-d578uv/issues).
+
+## Digitala kontaktlistor
+
+Kodpluggen är testad med min AT-D578UVII+ men fungerar sannolikt till andra versioner av Anytones modeller. Eftersom tidigare modeller av AT-D578UV är begränsad till 200000 kontakter så är den kontaktlistan som medföljer också begränsad då antalet DMR-IDn idag överstiger 200000. Har du en modell som inte har denna begränsning så kan du istället välja att använda den kontaktlista som har ordet "all" i filnamnet då denna innehåller hela världens alla DMR-IDn.
 
 ## Vad ingår i filerna?
 
@@ -22,7 +33,7 @@ DMR-repeatrarna är också indelade i roaming-zoner för att få roamingen att f
 
 ### Vilka filer ska du hämta?
 
-Jag rekommenderar att du hämtar filerna som jag har packat ihop i en [release](https://github.com/sm0rux/at-d578uv/releases) istället för att hämta mina arbetsfiler!
+Jag rekommenderar att du hämtar filerna som jag har packat ihop i en [release](https://github.com/sm0rgm/at-d578uv/releases) istället för att hämta mina arbetsfiler!
 
 ### När filerna är hämtade... 
 
