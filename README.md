@@ -2,13 +2,15 @@
 
 ## Copyright
 
-© 2021 by SM0RUX Pontus Falk
+© 2019-2023 by SM0RUX Pontus Falk
 
 Filerna är tillgängliga under [GPLv3](https://github.com/sm0rux/at-d578uv/blob/master/LICENSE).
 
 ## Uppdatering av SM0RGM 
 
 På grund av att Pontus SM0RUX av personliga skäl inte har möjlighet att uppdatera kodpluggen så har han och jag kommit överens om att jag övertar och uppdaterar kodpluggen. Kodpluggen är och förblir därmed "SM0RUX kodplugg" men underhållen av mig. Jag har skapat en fork av kodpluggarna och publicerat under mitt eget Github-konto och ändrat kontaktytorna i dessa filer, så kommentarer, ändringar och liknande lägger du som en issue på min Github eller kontaktar mig.
+
+Även om man försöker vara minutiöst noggrann så kan det smyga sig in fel. Kodpluggen innehåller i denna version 538 kanaler. Så hittar du något fel eller har andra synpunkter, lägga gärna en issue eller skicka ett mail. 
 
 Nacka mars 2023
 SM0RGM Stefan Helander
@@ -25,6 +27,21 @@ Alla repeatrar i Sverige som kan köra DMR eller FM är inkluderade (källa: [sk
 
 DMR-repeatrarna är också indelade i roaming-zoner för att få roamingen att funka på ett smidigt sätt.
 
+## Boot logo
+
+Bland filerna i kodpluggen finner du filen SSA.jpg. Det är SSAs logotype som kan användas som startbild. Gör så här:
+
+* I CPS, gå till Tool -> Boot image (när radion är ansluten till datorn)
+* Klicka på Open Image och välj filen SSA.jpg
+* Logon ska ny synas i bildfönstret, annars är något fel
+* Klicka på Write
+* Gå till Optional Setting -> Power on -> Power-on interface -> Custom picture
+* Spara ändringarna till radion
+
+## Digitala kontaktlistan
+
+Den digitala kontaktlistan innehåller call från SM/LA/OH/OZ för att få ner storleken på den så att den med säkerhet får plats i alla modeller av Anytone. Vill du ha en kontaktlista med fler länder kan du skapa ett konto på [radioid.net](https://radioid.net) och generera kontaklistor med exakt de länder du vill ha med.
+
 ## Vad du måste göra!
 
 ### Vilka filer ska du hämta?
@@ -37,6 +54,10 @@ Om du vill använda mina filer så behöver du i princip bara ändra DMR-ID i Ra
 
 Förmodligen vill du ändra på fler saker, men det överlåter jag till dig att fixa med själv.
 
+### Uppdatera befintlig kodplugg
+
+Om du bara vill uppdatera din radio med kanaler, scanlistor, roaming och zoner men låta resterande inställning vara som de är kan du, istället för att importera hela N0CALL.LST välja att enbart importera filerna för Channel, ScanList, RoamingChannels, RoamingZone och Zone. (SM0RGM)
+
 73's de SM0RUX Pontus
 
-2021-04-06
+2020-11-01
