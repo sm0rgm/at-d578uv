@@ -1,6 +1,88 @@
 
 # Changelog
 
+## 2024-02-17 (SM0RGM)
+
+* Ändrade kanaler per zon:
+    * Simplex
+        * +APRS 1 144.800 MHz FM
+        * +APRS 2 432.500 MHz FM
+        * +APRS US 144.390 MHz FM
+        * +145.450 MHz FM
+    * SM0
+        * Ingaro 1 CTCSS decode off
+        * +Sandhamn 434.375 
+        * Kista 3 nu SVX
+        * Stockolm 2 nu SVX
+        * Stockholm Norr nu SVX
+        * Sodertalje 4 434.6870 -> 434.8750
+        * -Skarpnack 145.700
+        * -Kista 434.6625
+        * -Galo 434.6875
+        * -Haninge 4 434.5375
+    * SM2
+        * Vannas 2 nu SVX
+        * Storuman 2 nu SVX
+        * Skelleftea 2 nu D+A
+        * -Lycksele 1 QRT
+        * -Lycksele 2 QRT
+        * -Nordmailing QRT
+    * SM3
+        * +Areskutan 145.725
+        * -Soderhamn 1 145.575
+        * -Soderhamn 3 434.525
+        * -Vemdalen 145.625 QRT
+        * Ostersund 2 nu SVX
+    * SM4
+        * Orsa 2 nu SVX 
+        * Alvdalen S 145.250 -> 434.500
+        * +Orsa 3 S 145.275
+        * +Smedjebacken 434.6375
+        * -Hagfors 1 145.225
+        * -Leksand 1 145.5875 DMR
+    * SM5
+        * Kisa nu CTCSS 82.5 Hz
+        * Eskilstuna 3 nu SVX
+        * Uppsala 1 nu SVX -DMR
+        * Eskilstuna 2 nu SVX
+        * Atvidaberg nu SVX
+        * Norrkoping 1 nu SVX
+        * +Norrkoping 5 434.6625 FM
+        * Flen 2 145.7625 +CTCSS 103.5
+        * -Sala 2 434.9375 QRT
+        * -Uppsala 7 434.7500 QRT
+        * -Vasteras 2 434.7000 QRT
+    * SM6 Gbg
+        * +Molndal 1 145.700 FM
+        * +Molndal 2 434.700 FM
+    * SM6 Ovriga
+        * Skovde 1 145.6875 FM korrigerat felaktig tx frekvens
+        * Uddevsalla 1 S nu 145.7375 DMR FM
+        * +Orby S 145.2375 MHz FM SVX
+        * +Karlsborg 145.7625 FM
+        * +Dingle 434.8875 DMR
+    * SM7 Ovriga
+        * Varnamo 1 CTCSS decode off
+        * -Morrum 434.825 FM QRT
+        * -Farjestaden S 145.2375 FM QRT
+        * Ljungby S +SVX +CTCSS 94.8 Hz
+        * Hoor -CTCSS 79.7 Hz
+        * +Moheda S 145.6375 MHz SVX
+        * +Malmo 1 434.6125 MHz DMR
+        * Malmo -> Malmo 2 434.7750 MHz DMR
+        * Borgholm S -> Borgholm 1 S 145.6625 MHz FM
+        * +Borgholm 2 S 434.7750 MHz FM SVX
+        * -Spjutsbygd 2 434.8750 MHz FM
+* APRS-frekvens 1-4 144.800 MHz och 5-8 432.500 MHz
+
+## 2024-02-10 (SM0RGM)
+
+* Ändrade kanaler per zon:
+    * SM0
+        * Ingaro 1 CTCSS decode off
+    * SM7 Ovriga
+        * Varnamo 1 CTCSS decode off
+ 
 ## 2023-08-21 (SM0RGM)
 
 * Ändrade kanaler per zon:
