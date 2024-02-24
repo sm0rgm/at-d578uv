@@ -1,6 +1,12 @@
 
 # Changelog
 
+## 2024-02-24 (SM0RGM)
+
+* Ändrade kanaler per zon:
+    * PMR-SRBR
+        * +156.000 MHz FM
+
 ## 2024-02-17 (SM0RGM)
 
 * Ändrade kanaler per zon:
