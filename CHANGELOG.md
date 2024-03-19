@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2024-03-19 (SM0RGM)
+
+* N0CALL.rdt komplett kodplugg för CPS 1.20/FW 2.07.
+
 ## 2024-02-24 (SM0RGM)
 
 * Ändrade kanaler per zon:
