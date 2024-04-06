@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2024-05-06 (SM0RGM)
+
+* Brottby 2 434.800 FM 77 Hz subton
+
 ## 2024-04-05 (SM0RGM)
 
 * Roamingchannel Bruzaholm -> Bzhlm/Hbg 2 samt Helsingborg 2 borttagen då dessa har samma frekvens och CC vilket innebär att roaming endast visar första träff (Bruzaholm).
