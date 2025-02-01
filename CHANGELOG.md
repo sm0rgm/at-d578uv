@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2025-02-01 (SM0RGM)
+
+* Digital Contact list uppdaterad. Denna innehåller DMR-id för Norden. Vill du ha ett annat urval behöver du själv generera en CSV-fil hos radioid.net.
+
 ## 2024-10-04 (SM0RGM)
 
 * RDT-filen uppdaterad för CPS version 1.21
