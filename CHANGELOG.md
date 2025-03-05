@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2025-03-05 (SM0RGM)
+
+* DigitalContactList uppdaterad och tvättad avseende internationella tecken (bl a åäö)
+
 ## 2025-02-01 (SM0RGM)
 
 * Digital Contact list uppdaterad. Denna innehåller DMR-id för Norden. Vill du ha ett annat urval behöver du själv generera en CSV-fil hos radioid.net.
